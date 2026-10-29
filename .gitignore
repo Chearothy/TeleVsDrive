@@ -1,0 +1,4 @@
+echo .env> .gitignore
+echo .env.txt>> .gitignore
+echo node_modules/>> .gitignore
+echo *.bak>> .gitignore
